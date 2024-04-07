@@ -13,6 +13,8 @@ public class TestNGPrac {
 	public void day1() {
 		
 		System.out.println("Day1");
+		System.out.println("Day11");
+		System.out.println("Day111");
 	}
 	@Test
 	public void day2() {
