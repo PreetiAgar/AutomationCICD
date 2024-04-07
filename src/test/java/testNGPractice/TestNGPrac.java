@@ -21,5 +21,12 @@ public class TestNGPrac {
 		System.out.println("Day2");
 		Assert.assertTrue(true);
 	}
+	
+	@Test
+	public void day() {
+		System.out.println("Day");
+		Assert.assertFalse(false);
+	}
+
 
 }

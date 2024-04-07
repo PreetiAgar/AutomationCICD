@@ -7,4 +7,8 @@ public class day3 {
 	public void sampleMethod() {
 		System.out.println("sample method");
 	}
+	@Test
+	public void sampleMethod2() {
+		System.out.println("sample method2");
+	}
 }

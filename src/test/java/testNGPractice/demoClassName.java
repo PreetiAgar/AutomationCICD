@@ -8,5 +8,9 @@ public class demoClassName {
 	public void APILogin() {
 		System.out.println("API Signing in");
 	}
+	@Test
+	public void APILogin1() {
+		System.out.println("API Signing in 1");
+	}
 
 }
